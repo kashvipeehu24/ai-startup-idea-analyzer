@@ -1,5 +1,3 @@
-# ai-startup-idea-analyzer
-
 # AI Startup Idea Analyzer
 
 ## Idea
