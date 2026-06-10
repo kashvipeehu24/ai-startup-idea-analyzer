@@ -1,6 +1,5 @@
 from model import StartupIdea
 
-from menu import show_menu
 
 ideas = []
 
@@ -98,7 +97,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
 
         
